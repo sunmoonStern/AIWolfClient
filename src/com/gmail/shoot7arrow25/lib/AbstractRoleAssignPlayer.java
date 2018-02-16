@@ -3,19 +3,19 @@
  * 
  * Copyright (c) 2016 人狼知能プロジェクト
  */
-package org.aiwolf.sample.lib;
+package com.gmail.shoot7arrow25.lib;
 
 import org.aiwolf.common.data.Agent;
 import org.aiwolf.common.data.Player;
 import org.aiwolf.common.data.Role;
 import org.aiwolf.common.net.GameInfo;
 import org.aiwolf.common.net.GameSetting;
-import org.aiwolf.sample.player.SampleBodyguard;
-import org.aiwolf.sample.player.SampleMedium;
-import org.aiwolf.sample.player.SamplePossessed;
-import org.aiwolf.sample.player.SampleSeer;
-import org.aiwolf.sample.player.SampleVillager;
-import org.aiwolf.sample.player.SampleWerewolf;
+import com.gmail.shoot7arrow25.player.SampleBodyguard;
+import com.gmail.shoot7arrow25.player.SampleMedium;
+import com.gmail.shoot7arrow25.player.SamplePossessed;
+import com.gmail.shoot7arrow25.player.SampleSeer;
+import com.gmail.shoot7arrow25.player.SampleVillager;
+import com.gmail.shoot7arrow25.player.SampleWerewolf;
 
 /**
  * <div lang="ja">役職ごとに実際に使用するプレイヤーを切り替えるプレイヤーの抽象クラス</div>

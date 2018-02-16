@@ -3,4 +3,4 @@
  *
  * <div lang="en">The package containing the sample players.</div>
  */
-package org.aiwolf.sample.player;
+package com.gmail.shoot7arrow25.player;

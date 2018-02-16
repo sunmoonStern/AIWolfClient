@@ -3,7 +3,7 @@
  * 
  * Copyright (c) 2016 人狼知能プロジェクト
  */
-package org.aiwolf.sample.lib;
+package com.gmail.shoot7arrow25.lib;
 
 import org.aiwolf.common.data.Agent;
 import org.aiwolf.common.data.Player;
