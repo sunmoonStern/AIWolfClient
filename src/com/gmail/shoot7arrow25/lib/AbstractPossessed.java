@@ -1,20 +1,20 @@
 /**
- * AbstractVillager.java
+ * AbstractPossessed.java
  * 
  * Copyright (c) 2016 人狼知能プロジェクト
  */
-package org.aiwolf.sample.lib;
+package com.gmail.shoot7arrow25.lib;
 
 import org.aiwolf.common.data.Agent;
 import org.aiwolf.common.data.Player;
 
 /**
- * <div lang="ja">村人用抽象クラス。呼ばれるはずのないメソッドが呼ばれると例外を投げる</div>
+ * <div lang="ja">裏切り者用抽象クラス。呼ばれるはずのないメソッドが呼ばれると例外を投げる</div>
  *
- * <div lang="en">Abstract class for villager. When the invalid method is called, it throws an exception.</div>
+ * <div lang="en">Abstract class for possessed. When the invalid method is called, it throws an exception.</div>
  */
 @Deprecated
-public abstract class AbstractVillager implements Player {
+public abstract class AbstractPossessed implements Player {
 
 	@Override
 	public final String whisper() {

@@ -3,4 +3,4 @@
  *
  * <div lang="en">The package containing the abstract classes for the sample players.</div>
  */
-package org.aiwolf.sample.lib;
+package com.gmail.shoot7arrow25.lib;

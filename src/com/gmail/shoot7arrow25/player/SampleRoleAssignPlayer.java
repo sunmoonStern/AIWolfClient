@@ -1,6 +1,6 @@
-package org.aiwolf.sample.player;
+package com.gmail.shoot7arrow25.player;
 
-import org.aiwolf.sample.lib.AbstractRoleAssignPlayer;
+import com.gmail.shoot7arrow25.lib.AbstractRoleAssignPlayer;
 import org.aiwolf.sample.player.*;
 
 /**
@@ -14,7 +14,8 @@ public class SampleRoleAssignPlayer extends AbstractRoleAssignPlayer {
 		setMediumPlayer(new SampleMedium());
 		setSeerPlayer(new SampleSeer());
 		setPossessedPlayer(new SamplePossessed());
-		setWerewolfPlayer(new SampleWerewolf());
+		setWerewolfPlayer(new MyWerewolf());
+		// setWerewolfPlayer(new SampleWerewolf());
 	}
 
 	public String getName() {

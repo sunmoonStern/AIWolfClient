@@ -1,4 +1,4 @@
-package org.aiwolf.sample.player;
+package com.gmail.shoot7arrow25.player;
 
 import org.aiwolf.client.lib.*;
 import org.aiwolf.common.data.*;

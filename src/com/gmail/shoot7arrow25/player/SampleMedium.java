@@ -1,4 +1,4 @@
-package org.aiwolf.sample.player;
+package com.gmail.shoot7arrow25.player;
 
 import java.util.Deque;
 import java.util.HashMap;
